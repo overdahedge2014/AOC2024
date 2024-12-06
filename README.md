@@ -1,2 +1,2 @@
 # AOC2024
-advent of code
+advent of good morning
